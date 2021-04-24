@@ -3,7 +3,7 @@
 <h3 align="center">A passionate student, on 💻 technology and 👨‍💻 security</h3>
 <br>
 
-- 🌱 **I’m currently learning 🍃 Spring, ⚛ React and finally 📱 Android**
+- 🌱 I’m currently learning 🍃 **Spring, ⚛ React and finally 📱 Android**
 
 - 📝 I usually post curious things on [https://www.linkedin.com/in/rafael-camargo-39059717a/](https://www.linkedin.com/in/rafael-camargo-39059717a/)
 
