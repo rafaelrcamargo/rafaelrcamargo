@@ -5,7 +5,7 @@
 
 - 📝 I usually post curious things on [https://www.linkedin.com/in/rafael-camargo-39059717a/](https://www.linkedin.com/in/rafael-camargo-39059717a/)
 
-- 💬 Ask me about **mqtt and arduino projects**
+- 💬 Ask me about **arduino projects on c/c++ and python or about mqtt protocol**
 
 - 📫 How to reach me **rafaelrakochinski@gmail.com**
 
