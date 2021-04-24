@@ -36,5 +36,5 @@
 
 <br>
 <div align="center">
-🔗<a href="https://www.linkedin.com/in/rafael-camargo-39059717a/">Clique aqui para visualizar o meu perfil completo</a>🔗
+🔗 <a href="https://www.linkedin.com/in/rafael-camargo-39059717a/"> Clique aqui para visualizar o meu perfil completo </a> 🔗
 </div>
