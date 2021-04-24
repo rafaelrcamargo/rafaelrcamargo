@@ -1,8 +1,6 @@
 # Hello, I'm Rafael R. Camargo, Make yourself at home... <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
 
-<br>
 <h3 align="left">A passionate student, on 💻 technology and 👨‍💻 security</h3>
-<br>
 
 - 🌱 I’m currently learning 🍃 **Spring, ⚛ React and finally 📱 Android**
 
@@ -14,13 +12,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafaelrcamargo" alt="rafaelrcamargo" height="30" width="40" />RafaelRCamargo</a>
+<a href="https://twitter.com/rafaelrcamargo" alt="rafaelrcamargo" height="30" width="40" />Twitter</a>
 <br>
-<a href="https://linkedin.com/in/rafael-camargo-39059717a" target="blank">Rafael-Camargo</a>
+<a href="https://linkedin.com/in/rafael-camargo-39059717a" target="blank">LinkedIn</a>
 <br>
-<a href="https://instagram.com/rafaelrcmrg" target="blank">RafaelRCmrg</a>
+<a href="https://instagram.com/rafaelrcmrg" target="blank">Instagram</a>
 <br>
-<a href="https://dribbble.com/rakochinski" target="blank">Rakochinski</a>
+<a href="https://dribbble.com/rakochinski" target="blank">Dribbble</a>
+<br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
