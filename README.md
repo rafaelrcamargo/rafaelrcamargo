@@ -1,4 +1,4 @@
-# Hello, I'm Rafael R. Camargo, Make yourself at home <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30px">
+# Hello, I'm Rafael R. Camargo, Make yourself at home <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="30px">
 <h3 align="center">A passionate student, on 💻 technology and 👨‍💻 security</h3>
 
 - 🌱 I’m currently learning **🍃 Spring, ⚛ React and finally 📱 Android**
