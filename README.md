@@ -14,10 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafaelrcamargo" alt="rafaelrcamargo" height="30" width="40" />rafaelrcamargo</a>
-<a href="https://linkedin.com/in/rafael-camargo-39059717a" target="blank"><img align="center" alt="rafael-camargo-39059717a" height="30" width="40" />rafael-camargo</a>
-<a href="https://instagram.com/rafaelrcmrg" target="blank"><img align="center" alt="rafaelrcmrg" height="30" width="40" />rafaelrcmrg</a>
-<a href="https://dribbble.com/rakochinski" target="blank"><img align="center" alt="rakochinski" height="30" width="40" />rakochinski</a>
+<a href="https://twitter.com/rafaelrcamargo" alt="rafaelrcamargo" height="30" width="40" />RafaelRCamargo</a>
+<br>
+<a href="https://linkedin.com/in/rafael-camargo-39059717a" target="blank">Rafael-Camargo</a>
+<br>
+<a href="https://instagram.com/rafaelrcmrg" target="blank">RafaelRCmrg</a>
+<br>
+<a href="https://dribbble.com/rakochinski" target="blank">Rakochinski</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
