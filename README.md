@@ -12,10 +12,10 @@
 
 - 📫 Para entrar em contato: **rafaelrakochinski@gmail.com**
 
-## Ultimos Projetos:
+### Ultimos Projetos:
 
 - http://qppsam.com.s3-website-us-east-1.amazonaws.com (Jogo desenvolvido como S.A. final do segundo ano do E.M.)
-- http://hidroponia.s3-website-us-east-1.amazonaws.com/ (Projeto de monitoramento remoto de uma horta hidroponica)
+- http://hidroponia.s3-website-us-east-1.amazonaws.com/ (Projeto de monitoramento remoto de uma horta hidroponica)
 
 <h3 align="left">Outros:</h3>
 <p align="left">
