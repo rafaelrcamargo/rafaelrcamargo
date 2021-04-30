@@ -29,5 +29,5 @@
 
 <br>
 <div align="center">
-🔗 <a href="https://www.linkedin.com/in/rafael-camargo-39059717a/"> Click here to see my full profile description in English </a> 🔗
+🔗 <a href="https://github.com/RafaelRCamargo/RafaelRCamargo/blob/master/README-EN.md"> Click here to see my full profile description in English </a> 🔗
 </div>
