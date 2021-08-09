@@ -1,4 +1,4 @@
-# Ola, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" style="vertical-align:sub">
+# Ola, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" style="margin-top:10px">
 
 *Link to description in **english** right below*
 
@@ -29,9 +29,7 @@
 <br>
 </p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRCamargo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</div><br>	
-<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=tokyonight"/>	
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=tokyonight"/>	
 
 <a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
