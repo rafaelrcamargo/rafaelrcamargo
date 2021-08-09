@@ -29,7 +29,7 @@
 <br>
 </p>
 
-<img width="100%" height="40rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=tokyonight"/>	
+<img width="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=tokyonight"/>	
 
 <a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
