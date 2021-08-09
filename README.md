@@ -1,4 +1,4 @@
-# Ola, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" style="margin-top:10px">
+# Ola, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" style="margin-top:20px">
 
 *Link to description in **english** right below*
 
