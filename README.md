@@ -1,13 +1,13 @@
 
-# Ola, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# Olá, eu sou **Rafael R. Camargo**, seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
 
 *Link to description in **english** right below*
 
 - 📝 Esse é o local onde eu salvo meus projetos preferidos, então, sinta-se à vontade para conhecer mais!
 
-<h3 align="left">Um estudante apaixonado, por 💻 tecnologia e 👨‍💻 segurança</h3>
+<h3 align="left">Um estudante apaixonado, por 💻 tecnologia</h3>
 
-- 🌱 Eu estou atualmente estudando 🍃 **Spring, ⚛ React e ainda 📱 Desenvolvimento Android**
+- 🌱 Eu estou atualmente estudando **⚛ React | Ts 🍃 Java | Spring e ainda 📱 Desenvolvimento Mobile | React Native**
 
 - 💬 Tenho diversos experimentos e **projetos arduino em c/c++ e python com mqtt para comunicação**, e estou a disposição para qualquer eventual dúvida 
 
