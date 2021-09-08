@@ -34,7 +34,7 @@
 <img width="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=onedark"/>	
 </center>
 
-<a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+<a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 <div align="center">
