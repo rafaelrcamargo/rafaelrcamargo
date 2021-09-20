@@ -30,12 +30,6 @@
 <br>
 </p>
 
-<center>
-<img width="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=onedark"/>	
-</center>
-
-<a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 <br>
 <div align="center">
 🔗 <a href="https://github.com/RafaelRCamargo/RafaelRCamargo/blob/master/README-EN.md"> Click here to see my full profile description in English </a> 🔗
