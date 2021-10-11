@@ -1,5 +1,5 @@
 
-# Olá, eu sou <img height="10px" src="https://readme-typing-svg.herokuapp.com?font=-apple-system&color=%23028BAF&size=30&center=true&vCenter=true&width=280&height=40&lines=Rafael+R.+Camargo;cmrg" />, seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# Olá, eu sou <img height="60px" src="https://readme-typing-svg.herokuapp.com?font=-apple-system&color=%23028BAF&size=30&center=true&vCenter=true&width=280&height=40&lines=Rafael+R.+Camargo;cmrg" />, seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
 
 *Link to description in **english** right below*
 
