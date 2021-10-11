@@ -1,5 +1,5 @@
 
-# Olá, eu sou [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23429CBD&size=30&vCenter=true&width=300&lines=Rafael+R.+Camargo...;cmrg)](https://git.io/typing-svg), seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# Olá, eu sou [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=-apple-system&color=%23028BAF&size=30&vCenter=true&width=280&lines=Rafael+R.+Camargo;cmrg)](https://git.io/typing-svg), seja bem vindo ao meu GitHub!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
 
 *Link to description in **english** right below*
 
