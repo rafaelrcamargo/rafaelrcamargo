@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate student, on 💻 technology and 👨‍💻 security</h3>
 
-- 🌱 I’m currently learning **⚛ React w/ TypeScript and Express (Socket.io / ), 🍃 Spring and finally 📱 Android**
+- 🌱 I’m currently learning **⚛ React w/ TypeScript and Express, 🍃 Spring and finally 📱 React Native**
 
 - 📝 I usually post curious things on [https://www.linkedin.com/in/rafael-camargo-39059717a/](https://www.linkedin.com/in/rafael-camargo-39059717a/)
 
