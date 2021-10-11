@@ -1,4 +1,4 @@
-# Hello, I'm Rafael R. Camargo, Make yourself at home... <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# Hello, I'm *Rafael R. Camargo*, Make yourself at home... <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
 
 <h3 align="left">A passionate student, on 💻 technology and 👨‍💻 security</h3>
 
