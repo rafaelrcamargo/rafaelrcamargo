@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=from-reddit-to-shorts&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=go-svg-api&theme=tokyonight"/>
 </div>
 
 <br>
