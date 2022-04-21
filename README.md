@@ -35,7 +35,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelRCamargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRCamargo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+
+<div align="center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=from-reddit-to-shorts)](https://github.com/RafaelRCamargo/from-reddit-to-shorts)
+</div>
 
 <br>
 <div align="center">
