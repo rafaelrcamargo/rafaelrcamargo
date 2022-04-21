@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=from-reddit-to-shorts)](https://github.com/RafaelRCamargo/from-reddit-to-shorts)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=from-reddit-to-shorts&theme=tokyonight"/>
 </div>
 
 <br>
