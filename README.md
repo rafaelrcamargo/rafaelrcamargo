@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img width="200em" height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=go-svg-api&theme=tokyonight&show_owner=true"/>
+  <img width="280em" height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelRCamargo&repo=go-svg-api&theme=tokyonight&show_owner=true"/>
 </div>
 
 <br>
