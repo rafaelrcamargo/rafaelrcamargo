@@ -1,11 +1,11 @@
 
-# Olá, **eu sou *Rafael R. Camargo***, bem vindo ao meu hub, github ;)  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# Olá, **eu sou *Rafael R. Camargo***, bem vindo ao meu hub, github ;)  
 
 *Link to description in **english** right below*
 
-- 📝 Esse é o local onde eu salvo meus projetos preferidos, então, sinta-se à vontade para conhecer mais!
+## 📝 Esse é o local onde eu salvo meus projetos preferidos, então, sinta-se à vontade para conhecer mais!
 
-<h3 align="left">Um estudante apaixonado, por tecnologia 💻</h3>
+> Um estudante apaixonado, por tecnologia 💻
 
 - 🌱 Estou atualmente estudando **React (Web & Native) | Gatsby & Netlify CMS e ainda Go (Gin) | Python 🐍**
 - 📚 Trabalho no momento com **⚛ React | Gatsby & Node | Koa.JS, Tudo com TypeScript**
@@ -15,8 +15,8 @@
 
 ### Ultimos Projetos:
 
-- ![Go SVG API](https://go-svg-api.herokuapp.com/) (API para geração de graficos personalizados em formato svg, exemplo mais a baixo 👀)
-- ![trending goes brrr](https://www.youtube.com/channel/UCTwf1G0p3i6otjHa0fuSqLw) (Canal de videos curtos completamente automatizado)
+- [Go SVG API](https://go-svg-api.herokuapp.com/) (API para geração de graficos personalizados em formato svg, exemplo mais a baixo 👀)
+- [trending goes brrr](https://www.youtube.com/channel/UCTwf1G0p3i6otjHa0fuSqLw) (Canal de videos curtos completamente automatizado)
 
 <h3 align="left">Outros:</h3>
 
@@ -30,12 +30,14 @@
 
 <div align="center">
   <img src="https://go-svg-api.herokuapp.com/"/>
-  *Gráfico desenvolvido e servido por uma API em GO, mantendo uma performance incrivel*
-  <br>
-  *e código legivel, ![source aqui!](https://github.com/RafaelRCamargo/go-svg-api)*
+  <i>
+    Gráfico desenvolvido e servido por uma API em GO, mantendo uma performance incrivel e código legivel, 
+    <br><a href="https://github.com/RafaelRCamargo/go-svg-api" target="blank">source aqui!</a>
+  </i>
 </div>
 
 <br>
+
 <div align="center">
 🔗 <a href="https://github.com/RafaelRCamargo/RafaelRCamargo/blob/master/README-EN.md"> Click here to see my full profile description in English </a> 🔗
 </div>
