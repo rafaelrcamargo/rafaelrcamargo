@@ -30,6 +30,7 @@
 
 <div align="center">
   <img src="https://go-svg-api.herokuapp.com/"/>
+  <br>
   <i>
     Gráfico desenvolvido e servido por uma API em GO, mantendo uma performance incrivel e código legivel, 
     <br><a href="https://github.com/RafaelRCamargo/go-svg-api" target="blank">source aqui!</a>
