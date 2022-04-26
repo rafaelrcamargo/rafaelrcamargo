@@ -38,7 +38,7 @@ _Link to description in **english** right below_
   <img src="https://go-svg-api.herokuapp.com/"/>
   <br>
   <i>
-    Gráfico desenvolvido e servido por uma **API em GO**, mantendo uma **performance incrível** <br>e **código legível**, <a href="https://github.com/RafaelRCamargo/go-svg-api" target="blank">source aqui!</a>
+    Gráfico desenvolvido e servido por uma <b>API em GO</b>, mantendo uma <b>performance incrível</b> <br>e <b>código legível</b>, <a href="https://github.com/RafaelRCamargo/go-svg-api" target="blank">source aqui!</a>
   </i>
 </div>
 
