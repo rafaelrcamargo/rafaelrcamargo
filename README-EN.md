@@ -1,31 +1,95 @@
-# Hello, I'm *Rafael R. Camargo*, Make yourself at home... <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hello, **I am _Rafael R. Camargo_**, welcome to my hub, GitHub ;D
 
-<h3 align="left">A passionate student, on 💻 technology and 👨‍💻 security</h3>
+_Link to the description in **English** right below_
 
-- 🌱 I’m currently learning **⚛ React w/ TypeScript and Express, 🍃 Spring and finally 📱 React Native**
+## 📝 This is the place where I save my favorite projects, so, feel free to know more
 
-- 📝 I usually post curious things on [https://www.linkedin.com/in/rafael-camargo-39059717a/](https://www.linkedin.com/in/rafael-camargo-39059717a/)
+> A passionate student of technology and security
 
-- 💬 Ask me about **arduino projects on c/c++ and python or about mqtt protocol**
+- 🌱 I'm currently studying **React** (Web & Native) - **Next | tRPC | Prisma** plus **Rust** & **Python 🐍**
+- 📚 I'm currently working with **⚛ React | Next** & **Node | Prisma | tRPC**, and of course always using **TypeScript**.
+- 🎉 For fun:
+  - **Rust**, always thinking about performance and safety.
+  - Go with Gin 😏\*\*, for building very high-performance APIs
+  - Python 🐍\*\* for building spreadsheets to kitten videos and whatever else you need 👀\_
+- 💬 I also have several experiments and projects with **Arduino** in **c/c++**, and I'm at your disposal for any eventual question!
+- 📫 To get in touch: **rafaelrakochinski@gmail.com**
 
-- 📫 How to reach me **rafaelrakochinski@gmail.com**
+### Latest Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rafaelrcamargo" alt="rafaelrcamargo" height="30" width="40" />Twitter</a>
-<br>
-<a href="https://linkedin.com/in/rafael-camargo-39059717a" target="blank">LinkedIn</a>
-<br>
-<a href="https://instagram.com/rafaelrcmrg" target="blank">Instagram</a>
-<br>
-<a href="https://dribbble.com/rakochinski" target="blank">Dribbble</a>
-<br>
+- [**CommerceXperts**](https://www.commercexpterts.com.br) (CommerceXperts is a platform for the training and certification of professionals in the digital commerce market).
+- [**Quix**](https://github.com/rafaelrcamargo/quix) (VTEX CLI - Rewritten in Rust, presenting the best possible performance, and DX for users - _Private while in development :)_)
+- [**trending goes brrr**](https://www.youtube.com/channel/UCTwf1G0p3i6otjHa0fuSqLw) (Fully automated short video channel)
+- [**Go SVG API**](https://go-svg-api.herokuapp.com/) (API for generating custom graphics in SVG format, example below 👀)
+
+<hr>
+
+<p align="center">
+  <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</p>
+
+<hr>
+
+<!-- <h3 align="left">Social:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafael-r-camargo-39059717a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rafaelrcmrg" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/RafaelRCamargo" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+<div align="center">
+  <img src="https://go-svg-api.herokuapp.com/"/>
+  <br>
+  <i>
+    Gráfico desenvolvido e servido por uma <b>API em GO</b>, mantendo uma <b>performance incrível</b> <br>e <b>código legível</b>, <a href="https://github.com/RafaelRCamargo/go-svg-api" target="blank">source aqui!</a>
+  </i>
+</div> -->
+
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelrcamargo&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" width="96.5%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelrcamargo&show_icons=true&theme=onedark" width="52.25%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcamargo&layout=compact&theme=onedark" width="44%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelrcamargo&repo=myles&theme=onedark" width="48.1%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelrcamargo&repo=dotfiles&theme=onedark" width="48.1%">
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
-<div align="center">
-🔗 <a href="https://www.linkedin.com/in/rafael-camargo-39059717a/"> Click here to view my complete profile </a> 🔗
-</div>
+<h3 align="center">👀 Meme break:</h3>
+<br>
+
+<!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
+<p align="center">
+<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="100%"/>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
