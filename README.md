@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Olá, **eu sou _Rafael R. Camargo_**, bem vindo ao meu GitHub ;D
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Olá, **eu sou _Rafael R. Camargo_**, bem vindo ao meu GitHub
 
 _Link to the description in **English** right below_
 
@@ -21,31 +21,6 @@ _Link to the description in **English** right below_
 - [**Quix**](https://github.com/rafaelrcamargo/quix) (VTEX CLI - Reescrita em Rust, presando a melhor performance possível, e DX para os usuários - _Privado enquanto em desenvolvimento :)_)
 - [**trending goes brrr**](https://www.youtube.com/channel/UCTwf1G0p3i6otjHa0fuSqLw) (Canal de videos curtos completamente automatizado)
 - [**Go SVG API**](https://go-svg-api.herokuapp.com/) (API para geração de graficos personalizados em formato svg, exemplo mais abaixo 👀)
-
-<hr>
-
-<p align="center">
-  <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <br>
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
-
-<hr>
 
 <!-- <h3 align="left">Social:</h3>
 <p align="left">
