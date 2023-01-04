@@ -1,31 +1,22 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Olá, **eu sou _Rafael R. Camargo_**, bem vindo ao meu GitHub
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hello, **Rafael R. Camargo** here.
 
-_Link to the description in **English** right below_
+> A inventive student of technology and computers.
 
-## 📝 Esse é o local onde eu salvo meus projetos preferidos, então, sinta-se à vontade para conhecer mais
+### 📝 This is the place where I save my projects, so feel free to learn more:
 
-> Um estudante apaixonado, por tecnologia e segurança 💻
+I like solving problems and learning new things, tools, languages, and paradigms, I learn as needed. Always searching for a new excuse for coding it. 
 
-- 🌱 Estou atualmente estudando **React** (Web & Native) - **Next | tRPC | Prisma** e ainda **Rust** & **Python 🐍**
-- 📚 Trabalho no momento com **⚛ React | Next** & **Node | Prisma | tRPC**, e claro, sempre usando **TypeScript**
-- 🎉 Por diversão:
-  - **Rust**, pensando sempre em performance e segurança.
-  - **Go com Gin 😏**, para a construção de APIs de altíssima performance
-  - **Python 🐍** para a construção de planilhas à vídeos de gatinhos _e o'que mais for necessário 👀_
-- 💬 Tenho também diversos experimentos e projetos com **arduino** em **c/c++**, e estou à disposição para qualquer eventual dúvida!
+- 📚 I'm currently working with **⚛ React Native | Next.js** & **Node.js | Prisma | tRPC** with **TypeScript**.
+- 🌱 I'm ever studying, and not understanding bothers me. Math, functional programming, and PL performance are the topics for now.
+- 🎉 And for fun I like:
+  - Coding in **Rust**, is all about performance and safety, besides being cool.
+  - And sketching in **Python** from plots to an automated YouTube channel and whatever else I'm feeling like... 👀\_
+  - Oh and **Haskell**, I'm searching for an excuse to learn it. :D
+- 💬 I also have some projects with **Arduino** in **C/C++**, and general *IOT stuff* & love to talk about it!
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelrcamargo&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" width="96.5%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelrcamargo&show_icons=true&theme=onedark" width="52.25%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcamargo&layout=compact&theme=onedark" width="44%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelrcamargo&repo=myles&theme=onedark" width="48.1%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelrcamargo&repo=dotfiles&theme=onedark" width="48.1%">
-
-<div align="center">
-🔗 <a href="https://github.com/RafaelRCamargo/RafaelRCamargo/blob/master/README-EN.md"> Click here to see my full profile description in English! </a> 🔗
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelrcamargo&show_icons=true&theme=onedark" width="52.25%">
+  ᅟ
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcamargo&layout=compact&theme=onedark" width="44%">
+ </p>
