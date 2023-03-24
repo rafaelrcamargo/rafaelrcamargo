@@ -1,26 +1,17 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hello, **Rafael R. Camargo** here.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm Rafael R. Camargo!
 
-> A inventive student of technology & computers.
+> An inventive student of technology & computers.
 
-### 📝 This is the place where I save my projects, so feel free to learn more:
+### 📝 This is where I keep my projects. Feel free to learn more:
 
-I like solving problems and learning new things, tools, languages, etc... I learn as needed. I'm also always searching for a new excuse for writing it in {trending_coding_language}. 
+I enjoy solving problems and learning new things, tools, languages, and more. I learn as needed, and I'm always searching for a new excuse to write in {trending_coding_language}.
 
 - 📚 I'm currently working with **⚛ React Native | Next.js** & **Node.js | Prisma | tRPC** with **TypeScript**.
-- 🌱 I'm ever studying, and not understanding bothers me. Math, scaling architecture, and Lang. Perf. are the topics for now.
-- 🎉 And for fun I like:
-  - Coding in **Rust**, is all about safety, performance, and the best developer experience out there, besides being cool.
-  - Sketching in **Python** from plots to an automated YouTube channel and whatever else I'm feeling like... 👀\_
-  - Oh and **Haskell**, I'm searching for an excuse to learn it. :D
-- 💬 I also have some projects with **Arduino** in **C/C++**, and general *IOT stuff* & love to talk about it!
+- 🌱 I'm a lifelong learner, and nothing bugs me more than not understanding something. Right now, I'm diving deep into math, scaling architecture, and language performance.
+- 🎉 In my free time, I enjoy:
+  - Coding in **Rust**. It's all about safety, performance, and the best developer experience out there, besides being cool.
+  - Sketching in **Python** from plots to an [automated YouTube channel](https://www.youtube.com/@trendinggoesbrrr) and whatever else I'm feeling like... 👀
+  - Oh and **Haskell**, the language that's as complex as a Rubik's cube, as beautiful as a sunset, and as elusive as a unicorn. _(I'm also not really sure where I would use it, but using it as a reference sounds really cool...)_
+- 💬 I also create IoT projects with **Arduino** & **C/C++**, and overall *IOT stuff*! Maybe they will blow your mind, maybe your fuse...
 
-> **Note**: I've separated my favorite projects, and pinned them down below, give it a look!
-<!--
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelrcamargo&show_icons=true&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcamargo&layout=compact&theme=onedark">
-</p>
-
--->
+> **Note**: I've separated my favorite projects and pinned them down below. Give them a look!
