@@ -2,17 +2,17 @@
 
 > An inventive student of technology & computers.
 
-### 📝 This is where I keep my projects. Feel free to learn more:
+### 📝 This is where I keep my projects. Feel free to explore more:
 
-I enjoy solving problems and learning new things, tools, languages, and more. I learn as needed, and I'm always searching for a new excuse to write in {trending_coding_language}.
+I enjoy solving problems and learning new things, tools, languages, and more. I learn as needed, and I'm always looking for a new reason to code in { trending_coding_language }.
 
-- 📚 I'm currently working with **⚛ React Native | Next.js** & **Node.js | Prisma | tRPC** with **TypeScript**.
-- 🌱 I'm a lifelong learner, and nothing bugs me more than not understanding something.
-  - 📖 Right now, I'm diving deep into math, scaling architecture, and language performance.
+- 📚 I'm currently working with **⚛ React Native | Next.js** & **Node.js | Prisma | tRPC** using **TypeScript**.
+- 🌱 I'm a lifelong learner, and nothing annoys me more than not understanding something.
+  - 📖 Currently, I'm delving deep into math, scalable architecture, and language performance.
 - 🎉 In my free time, I enjoy:
   - Coding in 🦀 **Rust**. It's all about safety, performance, and the best developer experience out there.
-  - Sketching in **Python** from plots to an [automated YouTube channel](https://www.youtube.com/@trendinggoesbrrr) and whatever else I'm feeling like... 👀
-  - Oh and **Haskell**, the language that's as complex as a Rubik's cube and as elusive as a unicorn.
-- 💬 I also create IoT projects with **Arduino** & **C/C++**, and overall *IOT stuff*! Maybe they will blow your mind, maybe your fuse...
+  - Creating sketches in **Python**, from plots to an [automated YouTube channel](https://www.youtube.com/@trendinggoesbrrr), and whatever else I feel like... 👀
+  - Oh, and I'm also participating in the **2022 AOC** (Advent of Code), but for each day, I choose a different language. It's been fun!
+- 💬 I also work on IoT projects with **Arduino** & **C**! They might blow your mind, or maybe your fuse...
 
-> **Note**: I've separated my favorite projects and pinned them down below. Give them a look!
+> **Note**: I've separated my favorite projects and pinned them below. Take a look!
