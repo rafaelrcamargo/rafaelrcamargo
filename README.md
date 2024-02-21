@@ -15,4 +15,8 @@ I enjoy solving problems and learning new things, tools, languages, and more. I 
   - Oh, and I'm also participating in the **202X AOC** (Advent of Code), and for each day I choose a different programming language. It's been a fun journey!
 - 💬 I also work on IoT projects with **Arduino** & **C++**! They might blow your mind, or maybe your fuse... _(sory for that. 👀)_
 
+**Ask me about any of my favorite tech:**
+
+<img src="https://raw.githubusercontent.com/mkrl/misbrands/master/ferris.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/github.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/javascript.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/pip.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/rails.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/react.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/rust.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/ubuntu.svg" height="40" /><img width="15"/><img src="https://raw.githubusercontent.com/mkrl/misbrands/master/vscode.svg" height="40" />
+
 > **Note**: I've separated my favorite projects and pinned them below. Take a look!
