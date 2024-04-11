@@ -15,6 +15,20 @@ I enjoy solving problems and learning new things, tools, languages, etc. I learn
   - Oh, I'm also participating in the **202X Advent of Code**, and each day I use a new programming language. [It's been fun](https://github.com/rafaelrcamargo/aoc)!
 - 💬 I've also worked on IoT projects with **Arduino** & **C++**! They might blow your mind, or your fuse... _(sory for that. 👀)_
 
+#### Bytes written
+
+```
+TypeScript   [================================================================ ]  49.19%
+Rust         [======================================================           ]  33.75%
+JavaScript   [======================                                           ]  10.60%
+Lua          [==========                                                       ]  05.06%
+Go           [=====                                                            ]  02.21%
+Python       [====                                                             ]  01.90%
+Elixir       [===                                                              ]  01.15%
+Java         [==                                                               ]  00.63%
+C            [=                                                                ]  00.49%
+```
+
 > [!TIP]
 >
 > I've separated my favorite projects and pinned them below. **Take a look!**
