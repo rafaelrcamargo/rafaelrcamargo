@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hey there, I'm Rafael R. Camargo!
+## Hey there!
 
 > An innovation-driven SWE and forever a student of technology & computers.
 
@@ -6,9 +6,9 @@
 
 I enjoy solving problems and learning new things, tools, languages, etc. I learn as needed, and I'm always looking for a new reason to code in `{{ trending_programming_language }}`.
 
-- 📚 I'm currently working with **⚛ React, Next.js, Node.js & Serverless** using **AWS CDK w/ TypeScript**.
+- 📚 I'm currently working with **⚛ React, Next.js and a lot of AWS goodies** using mainly **AWS CDK w/ TypeScript**.
 - 🌱 I'm a lifelong learner, and nothing annoys me more than not understanding something.
-  - 📖 Currently, I'm delving deep into scalable architecture, serverless & [RSC](https://github.com/rafaelrcamargo/rsc).
+  - 📖 Currently, I'm delving deep into scalable architecture, serverless & the [React 19](https://github.com/rafaelrcamargo/r19) model.
 - 🎉 In my free time, I enjoy:
   - Coding in 🦀 **Rust**. It's all about [safety](https://github.com/rafaelrcamargo/cout), [performance](https://github.com/rafaelrcamargo/quix), and the [best developer experience](https://github.com/rafaelrcamargo/ds) out there.
   - Creating sketches in **Python 🐍** (or [Mojo](https://github.com/rafaelrcamargo/aoc/tree/main/2022/06_mojo) 🔥), from plots to an [automated YouTube channel](https://www.youtube.com/@trendinggoesbrrr), and whatever else I feel like... 👀
