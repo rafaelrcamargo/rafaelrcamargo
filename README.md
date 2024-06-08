@@ -34,4 +34,4 @@ C            [=                                                                ]
 > I've separated my favorite projects and pinned them below. **Take a look!**
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.025; background: url('https://raw.githubusercontent.com/rafaelrcamargo/artifact/main/public/noise.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.03; background: url('https://raw.githubusercontent.com/rafaelrcamargo/artifact/main/public/noise.png');]{x0000}$}
