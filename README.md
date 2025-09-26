@@ -28,4 +28,4 @@ Java  (💀) [==                                                              ] 
 
 > [!TIP]
 >
-> this is where i keep my collection of byte files. feel free to take a peek:
+> this is where i keep my collection of bytes. feel free to take a peek:
